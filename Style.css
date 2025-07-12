@@ -690,7 +690,7 @@ span {
 }
 
 /* ===== Medium devices: Phones (landscape) & small tablets ===== */
-@media (min-width: 575px) and (max-width: 767px) {
+@media (min-width: 650px) and (max-width: 767px) {
   .header {
     padding: 1rem 9%;
   }
